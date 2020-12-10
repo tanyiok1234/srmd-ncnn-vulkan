@@ -1,3 +1,6 @@
 [submodule "src/ncnn"]
 	path = src/ncnn
 	url = https://github.com/tanyiok1234/ncnn.git
+[submodule "src/libwebp"]
+	path = src/libwebp
+	url = https://github.com/webmproject/libwebp.git
